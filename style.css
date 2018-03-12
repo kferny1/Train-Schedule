@@ -1,0 +1,14 @@
+body{
+	background-image: url("GrandCentral.jpg");
+	font-family: 'Black Ops One', cursive;
+}
+
+.jumbotron{
+	color:white;
+	font-family: 'Black Ops One', cursive;
+	text-align: center;
+   background: rgba(15, 15, 15, 0.5); 
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin-bottom: 1%;
+}	
